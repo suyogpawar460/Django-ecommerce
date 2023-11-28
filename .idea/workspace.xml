@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c85f1d3-b90c-4c43-ae0d-ac06af1d681f" name="Changes" comment="New Files added">
-      <change beforePath="$PROJECT_DIR$/.idea/ecomm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ecomm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/app" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/app" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/app/static/app/js/myscript.js" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/app/static/app/js/myscript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/app/templates/app/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/app/templates/app/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/app/templates/app/productdetails.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/app/templates/app/productdetails.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/ecommerce/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/ecommerce/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/secret_key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +22,19 @@
       </list>
     </option>
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ecommerce" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -58,18 +60,20 @@
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
+    "Notification.DisplayName-DoNotAsk-Vcs Important Messages": "VCS important messages",
+    "Notification.DoNotAsk-Vcs Important Messages": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "F:/Python/VS Code Projects/ecomm",
+    "last_opened_file_path": "F:/Python/AshokIT/Django Projects/BlogPost_Project",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "advanced.settings",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -107,6 +111,7 @@
       <workItem from="1700986644094" duration="1571000" />
       <workItem from="1701021927538" duration="3136000" />
       <workItem from="1701071360580" duration="840000" />
+      <workItem from="1701154220552" duration="89000" />
     </task>
     <task id="LOCAL-00001" summary="New Files added">
       <option name="closed" value="true" />
