@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c85f1d3-b90c-4c43-ae0d-ac06af1d681f" name="Changes" comment="New Files added">
+      <change beforePath="$PROJECT_DIR$/.idea/ecomm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ecomm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/app" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/app/static/app/js/myscript.js" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/app/static/app/js/myscript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/app/templates/app/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/app/templates/app/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/app/templates/app/productdetails.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/app/templates/app/productdetails.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/ecommerce/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/ecommerce/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/secret_key.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ecommerce" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2XHr4H2cLkwfl3F7an235m64Pwc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/Python/VS Code Projects/ecomm",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c85f1d3-b90c-4c43-ae0d-ac06af1d681f" name="Changes" comment="" />
+      <created>1698296654187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698296654187</updated>
+      <workItem from="1698296655444" duration="5790000" />
+      <workItem from="1698317550567" duration="180000" />
+      <workItem from="1698388232954" duration="120000" />
+      <workItem from="1698415002421" duration="4397000" />
+      <workItem from="1698473112813" duration="8968000" />
+      <workItem from="1698482575140" duration="1520000" />
+      <workItem from="1698492305816" duration="4196000" />
+      <workItem from="1698584105691" duration="5780000" />
+      <workItem from="1698728654843" duration="2856000" />
+      <workItem from="1699015457918" duration="5000" />
+      <workItem from="1699015802061" duration="8223000" />
+      <workItem from="1699067243390" duration="5106000" />
+      <workItem from="1699074674194" duration="630000" />
+      <workItem from="1699076567827" duration="5677000" />
+      <workItem from="1699089188234" duration="11801000" />
+      <workItem from="1699107037200" duration="6896000" />
+      <workItem from="1699191319642" duration="1805000" />
+      <workItem from="1699243719842" duration="15418000" />
+      <workItem from="1699267008164" duration="90000" />
+      <workItem from="1699426196038" duration="1731000" />
+      <workItem from="1700550946121" duration="1510000" />
+      <workItem from="1700556228799" duration="141000" />
+      <workItem from="1700571517247" duration="6847000" />
+      <workItem from="1700986644094" duration="1571000" />
+      <workItem from="1701021927538" duration="3136000" />
+      <workItem from="1701071360580" duration="840000" />
+    </task>
+    <task id="LOCAL-00001" summary="New Files added">
+      <option name="closed" value="true" />
+      <created>1700575238989</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700575238991</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="New Files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Files added" />
+  </component>
+</project>
